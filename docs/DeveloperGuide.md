@@ -1165,7 +1165,8 @@ For more information, check [this](https://github.com/apps/codecov). The above [
 ---
 
 ## **Continuous Integration**
-{to be filled}
+We used [Github Actions](https://github.com/AY2223S2-CS2103T-W14-2/tp/actions) to apply our [unit tests](https://github.com/AY2223S2-CS2103T-W14-2/tp/tree/master/src/test/java/seedu/address) whenever we create a [Pull Request](https://github.com/AY2223S2-CS2103T-W14-2/tp/pulls) for our main branch. 
+Credits to [AB3](https://se-education.org/addressbook-level3/) for the Continuous Integration [workflow](https://github.com/AY2223S2-CS2103T-W14-2/tp/blob/master/.github/workflows/gradle.yml).
 
 # **6. Documentation**
 
